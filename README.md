@@ -46,5 +46,5 @@ unit tests : for each file test the functionallity of the code.
 
 
 
-missing - authorizations , error handling , logging , unit tests , moving to core directory , authentication to use cloud secrets
+missing - scheme check , authorizations , error handling , logging , unit tests , moving to core directory , authentication to use cloud secrets
 
